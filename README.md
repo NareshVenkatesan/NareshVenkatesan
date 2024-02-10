@@ -13,7 +13,14 @@
 
 - 📫 How to reach me **nareshgvenkatesan@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🔧 Skills
+
+- **Languages:** Java
+- **Frameworks:** Spring Boot
+- **Databases:** MySQL
+- **Tools & Technologies:** Git, Spring Tool Suite 4, Maven, Servlets, Hibernate ORM, Spring Data JPA, Spring MVC, SDLC, Agile 
+- **Web services:** RESTful Web services
+
 <p align="left">
 </p>
 
